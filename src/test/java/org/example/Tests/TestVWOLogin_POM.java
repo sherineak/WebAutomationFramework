@@ -1,6 +1,6 @@
-package org.example;
+package org.example.Tests;
 
-import org.example.Pages.PageObjectModel.LoginPage_POM;
+import org.example.Tests.PageObjectModel.LoginPage_POM;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.Assert;

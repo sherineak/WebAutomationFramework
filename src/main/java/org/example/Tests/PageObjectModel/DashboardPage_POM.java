@@ -1,4 +1,4 @@
-package org.example.Pages.PageObjectModel;
+package org.example.Tests.PageObjectModel;
 
 public class DashboardPage_POM {
     //Contains

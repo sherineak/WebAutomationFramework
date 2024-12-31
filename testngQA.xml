@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" parallel="methods" name="Automation FrameWork">
         <classes>
-            <class name="org.example.Tests.TestVWOLogin_POM">
+            <class name="org.example.Tests.QA.TestVWOLogin_PF_QA_DriverManager">
                 <methods>
                     <include name="testLoginNegativeVWO"/>
                     <include name="testLoginNegativeVWO_02"/>
