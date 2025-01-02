@@ -29,6 +29,7 @@ private static final Logger LOGGER = Logger.getLogger("TestVWOLogin_PF_DriverMan
 // There are different types of logs available LOGGER.--- , but most of the time using Info
 
         Assert.assertEquals(error_message,"Your email, password, IP address or location did not match");
+
         Assertions.assertThat(error_message).isNotNull().isNotBlank();
         driver.quit();
 
